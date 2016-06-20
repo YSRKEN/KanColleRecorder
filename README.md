@@ -11,7 +11,7 @@
 
 ## 開発環境・言語
 - 開発環境：Microsoft Visual Studio Community 2015
-- 開発言語：C# + WPF
+- 開発言語：C# + WinForms
 
 ## ライセンス
 MIT License
