@@ -36,6 +36,7 @@
 			this.GetFlashPositionButton.TabIndex = 0;
 			this.GetFlashPositionButton.Text = "座標取得";
 			this.GetFlashPositionButton.UseVisualStyleBackColor = true;
+			this.GetFlashPositionButton.Click += new System.EventHandler(this.GetFlashPositionButton_Click);
 			// 
 			// SaveScreenShotButton
 			// 
@@ -46,6 +47,7 @@
 			this.SaveScreenShotButton.TabIndex = 1;
 			this.SaveScreenShotButton.Text = "画像保存";
 			this.SaveScreenShotButton.UseVisualStyleBackColor = true;
+			this.SaveScreenShotButton.Click += new System.EventHandler(this.SaveScreenShotButton_Click);
 			// 
 			// MainForm
 			// 
